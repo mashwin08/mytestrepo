@@ -4,4 +4,4 @@
 * Weather : Cyclone Amphan Rips Through Bengal, Kolkata Buildings Damaged
 * Tech : Google's 'Smart' Cable Will Let You Issue Commands With a Squeeze
 
-[oracle.com](https://www.oracle.com "Oracle's Homepage")
+* [oracle.com](https://www.oracle.com "Oracle's Homepage")
